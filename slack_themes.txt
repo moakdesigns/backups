@@ -1,0 +1,4 @@
+All themes are on individual line.
+October 14, 2019
+
+#141422,#259692,#259692,#FFFFFF,#4A5664,#ffffff,#ff8800,#FF8800
