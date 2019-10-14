@@ -1,28 +1,9 @@
 {
-  "noHelp": true,
-  "sync": {
-    "useImdoneioForPriority": true,
-    "name": "moakdesigns/backups",
-    "id": "5b196d23aa2f31601d0abd2f"
-  },
-  "marked": {
-    "langPrefix": "language-",
-    "smartLists": true,
-    "pedantic": false,
-    "breaks": false,
-    "tables": true,
-    "gfm": true
-  },
-  "lists": [
-    {
-      "hidden": false,
-      "name": "HELP"
-    },
-    {
-      "name": "TEST",
-      "hidden": false
-    }
+  "exclude": [
+    "^(node_modules|bower_components|\\.imdone|target|build|dist|logs|flow-typed|imdone-export.json)[\\/\\\\]?|\\.(git|svn|hg|npmignore)|\\~$|\\.(jpg|png|gif|swp|ttf|otf)$"
   ],
+  "watcher": true,
+  "keepEmptyPriority": true,
   "code": {
     "include_lists": [
       "TODO",
@@ -42,9 +23,28 @@
       "TEST"
     ]
   },
-  "keepEmptyPriority": true,
-  "watcher": true,
-  "exclude": [
-    "^(node_modules|bower_components|\\.imdone|target|build|dist|logs|flow-typed|imdone-export.json)[\\/\\\\]?|\\.(git|svn|hg|npmignore)|\\~$|\\.(jpg|png|gif|swp|ttf|otf)$"
-  ]
+  "lists": [
+    {
+      "hidden": false,
+      "name": "HELP"
+    },
+    {
+      "name": "TEST",
+      "hidden": false
+    }
+  ],
+  "marked": {
+    "langPrefix": "language-",
+    "smartLists": true,
+    "pedantic": false,
+    "breaks": false,
+    "tables": true,
+    "gfm": true
+  },
+  "sync": {
+    "useImdoneioForPriority": true,
+    "name": "moakdesigns/backups",
+    "id": "5b196d23aa2f31601d0abd2f"
+  },
+  "noHelp": true
 }
