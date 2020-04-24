@@ -1,0 +1,211 @@
+**Generated:** Fri, 24 Apr 2020 15:17:31 GMT
+**User Agent:** Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+
+**Extensions:** 12
+
+ - [Google Translate](https://chrome.google.com/webstore/detail/aapbdbdomjkkjkaonfhkkikfgjllcleb) v2.0.9: *View translations easily as you browse the web. By the Google Translate team.*
+ - [Clipboard History Pro: best productivity tool](https://chrome.google.com/webstore/detail/ajiejmhbejpdgkkigpddefnjmgcbkenk) v3.4.2: *Clipboard manager extension for your browser: history of copied text, sync clipboard items, instant paste*
+ - [Shortcuts for Google™](https://chrome.google.com/webstore/detail/baohinapilmkigilbbbcccncoljkdpnd) v21.6.0: *Choose from 800+ Google™ shortcuts to show up as buttons in a space-saving popup*
+ - [Share Extensions](https://chrome.google.com/webstore/detail/chdafcbnfkfenoeejpaeenpdamhmalhe) v0.1.9: *Export your favorite Google Chrome™ extensions as BBCode, HTML, Wiki, Markdown or text. Share extensions via Twitter, Google Mail™.*
+ - [Stylus](https://chrome.google.com/webstore/detail/clngdbkpkpeebahjckkjfobafhncgmne) v1.5.11: *Redesign the web with Stylus, a user styles manager. Stylus allows you to easily install themes and skins for many popular sites.*
+ - [Google Docs Offline](https://chrome.google.com/webstore/detail/ghbmnnjooekpmoecnnnilnnbdlolhkhi) v1.10.0: *Edit, create, and view your documents, spreadsheets, and presentations — all without internet access.*
+ - [WFx for WorkFlowy](https://chrome.google.com/webstore/detail/jbehgpdjkcconnaagjhddddfdajbpfhi) v2.5.3: *Create intuitive text shortcuts to your favorite WorkFlowy lists, websites, and tools.*
+ - [Gmail Sender Icons](https://chrome.google.com/webstore/detail/jniljaamodclkmphgkgkooplflhkadpg) v2.1: *Quickly identify the sender of email messages in Gmail without opening the message.*
+ - [SimpleExtManager](https://chrome.google.com/webstore/detail/kniehgiejgnnpgojkdhhjbgbllnfkfdk) v1.4.8: *A simple menu to enable, disable and access options of extensions.*
+ - [Save to Pocket](https://chrome.google.com/webstore/detail/niloccemoadcdkdjlinkgdfekeahmflj) v3.0.6.8: *The easiest, fastest way to capture articles, videos, and more.*
+ - [Popup window](https://chrome.google.com/webstore/detail/nnlippelgfbglbhiccffmnmlnhmbjjpe) v0.0.9: *Move tab to standalone window, without tabs bar, navigation bar and bookmark bar UI.*
+ - [Da Vinci Tools](https://chrome.google.com/webstore/detail/pekljbkpgnpphbkgjbfgiiclemodfpen) v2020.3.26: *The Supermetrics Google Marketing Platform power tools for smart digital marketers and analysts.*
+
+**Disabled Extensions:** 174
+ - [Cluster - Window & Tab Manager](https://chrome.google.com/webstore/detail/aadahadfdmiibmdhfmpbeeebejmjnkef) v2.2.6: *Window and Tab manager for managing multiple open tabs and windows with simplicity.*
+ - [Context](https://chrome.google.com/webstore/detail/aalnjolghjkkogicompabhhbbkljnlka) v0.414: *Sort extensions into groups and easily switch between them.*
+ - [Product Hunt back to top button](https://chrome.google.com/webstore/detail/ahohifoobhdedeojajckchoeggebngom) v0.0.0.1: *It adds a fun back to top button to producthunt.com.*
+ - [Workona](https://chrome.google.com/webstore/detail/ailcmbgekjpnablpdkmaaccecekgdhlh) v2.11.4: *Organize your work in the browser.*
+ - [SEOquake](https://chrome.google.com/webstore/detail/akdgnmcogleenhbclghghlkkdndkjdjc) v3.8.1: *SEOquake is a free plugin that provides you with key SEO metrics, along with other useful tools such as SEO Audit and many others*
+ - [LaterTabs](https://chrome.google.com/webstore/detail/alogfnakemilhfnffefhakibpphibafe) v0.1.0: *Save for tabs for later reading*
+ - [Stylus (beta)](https://chrome.google.com/webstore/detail/apmmpaebfobifelkijhaljbmpcgbjbdo) v1.5.9: *Redesign the web with Stylus, a user styles manager. Stylus allows you to easily install themes and skins for many popular sites.*
+ - [Markd - Save & Tag People on LinkedIn Twitter](https://chrome.google.com/webstore/detail/beaalofkiocejchbpaocbbjhobmambpp) v3.8.0: *The quickest way to remember and organise people you find online.*
+ - [Web Developer](https://chrome.google.com/webstore/detail/bfbameneiokkgbdmiekhjnmfkcnldhhm) v0.5.4: *Adds a toolbar button with various web developer tools.*
+ - [PPC NegativeKeywords Tool](https://chrome.google.com/webstore/detail/bhngmgdidjmeidaipaaofefjkehlljof) v3.0.45: *Позволяет собирать слова по клику из поисковых отчетов*
+ - [qSnap: Screen Capture, Screenshot, Annotation](https://chrome.google.com/webstore/detail/bijakfpegjnjmfdoiloebhaemhomjkon) v1.4.1.1: *Get more out of your screen captures! Free - Cross Browser - Multiple Page Screen Capture - Rich Annotation - Awesome!*
+ - [Lighthouse](https://chrome.google.com/webstore/detail/blipmdconlkpinefehnmjammfjpmpbjk) v100.0.0.0: *Lighthouse*
+ - [Sender icons for Gmail™](https://chrome.google.com/webstore/detail/bncbcpnjglcbgoambglmmfoakffngkjg) v0.1.0: *Add a sender icon for all emails in your Gmail inbox.*
+ - [Copy Host](https://chrome.google.com/webstore/detail/bnimbjbohdeakocjbldadiggnlmlgmie) v1.0: *This extension allows you to copy hostname of the current tab to your clipboard.*
+ - [Listly](https://chrome.google.com/webstore/detail/bnohaknhjanaejcegmlbhiknhcfkajbb) v0.4.0: *The Listly Chrome Extension allows users to quickly add items to their lists on Listly while browsing the web*
+ - [painter for workflowy.com](https://chrome.google.com/webstore/detail/boeplfofdabogkgimajcpadbnfcmkmek) v2.1: *extension for workflowy.com. paint your list with 17 colors - red,blue,green,yellow,aqua,black,fuchsia,gray,lime,maroon,etc.*
+ - [Nimbus Screenshot & Screen Video Recorder](https://chrome.google.com/webstore/detail/bpconcjcammlapcogcnnelfmaeghhagj) v8.6.4: *Screen Capture FULL Web page or any part. Edit screenshots. Record screencasts - record video from your screen.*
+ - [Bublup](https://chrome.google.com/webstore/detail/cbfllaanijkpjgnolhfhephemiccnacj) v1.4.3: *Save any web page and discover fascinating content.*
+ - [GistBox Clipper](https://chrome.google.com/webstore/detail/cejmhmbmafamjegaebkjhnckhepgmido) v1.0.6: *Save code snippets from anywhere on the web. Companion extension to GistBoxApp.com.*
+ - [Clip To WorkFlowy](https://chrome.google.com/webstore/detail/cfifjihfoegnccifkcdomdookdckhaah) v2.0.7: *Bookmark websites in WorkFlowy*
+ - [WMS Everywhere](https://chrome.google.com/webstore/detail/chbmoagfhnkggnhbjpoonnmhnpjdjdod) v0.8: *Unlimited on-demand keyword research data inside Google search results.*
+ - [DomEye: Discover websites from the same owner](https://chrome.google.com/webstore/detail/chhjhjenclgckimdcpakckbmdkdaohbp) v1.3.3: *Reveal other websites on the same server, with the same IP address, Analytics ID, Adsense ID, Amazon affiliate ID or email address.*
+ - [Screen capture, screenshot share/save](https://chrome.google.com/webstore/detail/cjbjepchlgclmpinlbbeinajphohgfod) v2423.38.46.352: *Capture a region, visible content of a tab, or a horizontally/vertically scrollable page as a searchable image & bookmark it.*
+ - [Google Data Studio PDF Export](https://chrome.google.com/webstore/detail/cmbgpgjhibpioljmaaocdommnggpecje) v1.6.0: *PDF Export Extension for multi-page document in Data Studio*
+ - [WorkFlowy colorful tags](https://chrome.google.com/webstore/detail/cmbmkopbnnbhdeknahmdkfkjogdlbdjf) v0.2.4: *Allows to assign color to tags in Workflowy*
+ - [Element Path Finder](https://chrome.google.com/webstore/detail/cmddjimnbiilckakmjjljdjinelkpine) v1.6: *Displays DOM item details (path, id, class name) when mousing over it.*
+ - [Save to Bookmark OS](https://chrome.google.com/webstore/detail/cnmnalakipnobjijcnnnkbpeejjhhdkn) v1.7: *Save bookmarks easily to Bookmark OS*
+ - [ObservePoint TagDebugger](https://chrome.google.com/webstore/detail/daejfbkjipkgidckemjjafiomfeabemo) v1.20.1: *Troubleshoot and audit analytics tags, variables and on-click events. Supports Adobe Analytics, Google Analytics, Ensighten and more*
+ - [BuiltWith Technology Profiler](https://chrome.google.com/webstore/detail/dapjbgnjinbpoindlpdmhochffioedbn) v2.8: *Find out what the website you are visiting is built with using this extension.*
+ - [GraphiTabs](https://chrome.google.com/webstore/detail/dcfclemgmkccmnpgnldhldjmflphkimp) v0.1.1: *Your tabs in order. Smart way to organize your web.*
+ - [Tampermonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo) v4.9: *The world's most popular userscript manager*
+ - [Keyword Modifier](https://chrome.google.com/webstore/detail/dhpaponoajbgfahgmcbchndpjbooapog) v2.1.0: *Modify your PPC keywords in bulk.*
+ - [middlespot](https://chrome.google.com/webstore/detail/djfkcofpclibgmphomlbpgndljnffegm) v4.0.1: *Desktop The Web*
+ - [Chrome Tools](https://chrome.google.com/webstore/detail/djjaamgbkmlhpfgodinngfeolfbenehm) v1.1: *Increase productivity with Chrome tools & shortcuts*
+ - [Refind](https://chrome.google.com/webstore/detail/dlapbpopbcangbnjdhajdlanbfokjaja) v4.0.4: *Quickly save links from around the web.*
+ - [Snipit - organize, share, collaborate](https://chrome.google.com/webstore/detail/dodniekpimecafnhdbfaihfgdgbihhjl) v2.3.0: *Code snippets for teams and individuals. Save and organize your code snippets in the cloud. Share and collaborate with team members.*
+ - [Stash](https://chrome.google.com/webstore/detail/ebclocabgheinkhjdkjchepmohbfjbjo) v1.0.14: *Quickly and easily send links to Stash (stash.ai) from your browser.*
+ - [Freezetab](https://chrome.google.com/webstore/detail/ecpipjjckcegdmapdifgigmempnikcjg) v1.9.0: *A powerful alternative to bookmarks.*
+ - [Session Buddy](https://chrome.google.com/webstore/detail/edacconmaakjimmfgnblocblbcdcpbko) v3.6.3: *Manage Browser Tabs and Bookmarks with Ease*
+ - [Google PageSpeed Insights Extension](https://chrome.google.com/webstore/detail/edbkhhpodjkbgenodomhfoldapghpddk) v2.2.5: *Check PageSpeed Insights score with a single click*
+ - [Adobe Acrobat](https://chrome.google.com/webstore/detail/efaidnbmnnnibpcajpcglclefindmkaj) v15.1.1.5: *Convert current web page to an Adobe PDF file (Windows only)*
+ - [MyFavs.in](https://chrome.google.com/webstore/detail/ehgfhkodigidecolffkimkobciiilogg) v3.4.0: *All the precious favorite things you find on the internet. All in one place.*
+ - [Black Menu for Google™](https://chrome.google.com/webstore/detail/eignhdfgaldabilaaegmdfbajngjmoke) v22.4.13: *The easiest access to the Google universe*
+ - [Quick Launcher](https://chrome.google.com/webstore/detail/ejfnjjfimjllfmeohacobipgepnilapm) v1.4.16: *Smart links organizer. Create collection of related links or add urls of different environments(uat, prod) of various deployed apps*
+ - [Search phrases related in Google](https://chrome.google.com/webstore/detail/eklpkhjmgcepjljfmpmdaeicgoemojjb) v2.0.1: *Shows all phrases related to search. Easy to get new phrases for improve your SEO and SERP.*
+ - [Facebook Pixel Helper](https://chrome.google.com/webstore/detail/fdgfkebogiimcoedlicjlajpkdmockpc) v2.0.1: *The Facebook Pixel Helper is a troubleshooting tool that helps you validate your pixel implementation.*
+ - [Airtable web clipper](https://chrome.google.com/webstore/detail/fehcbmngdgagfalpnfphdhojfdcoblgc) v1.8.0: *Clip web content to your Airtable bases.*
+ - [Gyazo](https://chrome.google.com/webstore/detail/ffdaeeijbbijklfcpahbghahojgfgebo) v2.8.3: *Grab any image on the web and share it instantly.*
+ - [Datalayer Checker](https://chrome.google.com/webstore/detail/ffljdddodmkedhkcjhpmdajhjdbkogke) v2.3.9: *The easiest way to debug and check the dataLayer implementations without having to use the browser console!*
+ - [GQueues for Google Calendar](https://chrome.google.com/webstore/detail/fghnmlcmakpmbjgplmcbkhgkeegofhll) v1.1.5: *Mark GQueues tasks complete directly in Google Calendar*
+ - [Stylish - Custom themes for any website](https://chrome.google.com/webstore/detail/fjnbnpbmkenffdnngjfgmeleoegfcffe) v2.0.9: *Customize any website to your color scheme in 1 click, thousands of user styles with beautiful themes, skins & free backgrounds.*
+ - [Page Analytics (by Google)](https://chrome.google.com/webstore/detail/fnbdnhhicmebfgdgglcdacdapkcihcoh) v1.7.7: *The Page Analytics Chrome Extension allows you to see how customers interact with your web pages.*
+ - [Wayback Machine](https://chrome.google.com/webstore/detail/fpnmgdkabkmnadcjpehmlllkndpkmiak) v2.12: *Reduce annoying 404 pages by automatically checking for an archived copy in the Wayback Machine.*
+ - [Voila Web Screenshot](https://chrome.google.com/webstore/detail/fppjbihjmidhgfmacekmdmkgppfcipbl) v1.0: *Capture webpages in a variety of ways from within your browser!*
+ - [Clipd.io | Visual Bookmarks Manager](https://chrome.google.com/webstore/detail/gbnbjofldlbajdfbalillihmiljnekkk) v0.1.8: *Bookmarks Manager for the Modern Web*
+ - [Tampermonkey BETA](https://chrome.google.com/webstore/detail/gcalenpjmijncebpfijmoaglllgpjagf) v4.10.6112: *The world's most popular userscript manager*
+ - [Toby Mini](https://chrome.google.com/webstore/detail/gfdcgfhkelkdmglklfbndgopaihmoeci) v0.5.2: *Same as Toby, but not on the new tab. Organize your browser tabs and access them quickly anywhere.*
+ - [Chrome Capture](https://chrome.google.com/webstore/detail/ggaabchcecdbomdcnbahdfddfikjmphe) v2.5.5: *Capture & edit screenshots, GIFs & videos of a selected area in Chrome.*
+ - [Index](https://chrome.google.com/webstore/detail/ghkpddjaenkipmahjnkhljeipabemdfc) v0.9: *Organize Everything.*
+ - [Counting Characters - #1 Letter & Word Count](https://chrome.google.com/webstore/detail/gmaddeabdjpmjkghhhhfdkeemfcnknpl) v1.1.6: *#1 Character, Letter & Word Counter Tool - Help to count letters, characters & words (UPPERCASE, Titlecase & lowercase converter).*
+ - [Google Calendar](https://chrome.google.com/webstore/detail/gmbgaklkmjakoegficnlkhebmhkjfich) v3.0.1: *Quick overview of your Google Calendar with one-click access to locations & documents*
+ - [Save to Google Drive](https://chrome.google.com/webstore/detail/gmbmikajjgmnabiglmofipeabaddhgne) v2.1.1: *Save web content or screen capture directly to Google Drive.*
+ - [Send to Airtable](https://chrome.google.com/webstore/detail/gnlfpcbhdipbidmkchkjlleppeijclbj) v2.1.4: *Send information about the current page to Airtable*
+ - [OneNote Web Clipper](https://chrome.google.com/webstore/detail/gojbdfnpnhogfdgjbigejoaolejmgdhk) v3.8.1: *Save anything on the web to OneNote. Clip it to OneNote, organize and edit it, then access it from any device.*
+ - [Wappalyzer](https://chrome.google.com/webstore/detail/gppongmhjkpfnbhagpmjfkannfbllamg) v5.9.30: *Identify web technologies*
+ - [WorkFindy for WorkFlowy](https://chrome.google.com/webstore/detail/hbambmdimfhkndanjdhfopdodgkfclhb) v2.4: *Search WorkFlowy. From any website or Workflowy page. Select text or enter it. Simple. Surprisingly useful.*
+ - [Keywords Everywhere - Keyword Tool](https://chrome.google.com/webstore/detail/hbapdpeemoojbophdfndmlgdhppljgmp) v7.12: *Keyword search volume, cpc and competition for 15+ websites like Google™ Search Console, YouTube™, Amazon™ & more*
+ - [Tab Modifier](https://chrome.google.com/webstore/detail/hcbgadmbdkiilgpifjgcakjehmafcjai) v0.22.0: *Take control of your tabs*
+ - [Save to Feedly Board](https://chrome.google.com/webstore/detail/hdhblphcdjcicefneapkhmleapfaocih) v4.0.1: *Quickly save an article you are reading in your browser in one of your Feedly boards*
+ - [LastPass: Free Password Manager](https://chrome.google.com/webstore/detail/hdokiejnpimakedhajhdlcegeplioahd) v4.46.0.1: *LastPass, an award-winning password manager, saves your passwords and gives you secure access from every computer and mobile device.*
+ - [Additor - The Simplest Bookmark & Highlighter](https://chrome.google.com/webstore/detail/hfllajanfnlimffhkjbondolipoimcgn) v2.0.6: *Additor helps you to bookmark, highlight, annotate and curate anything including article, blog, PDF, and video.*
+ - [InstaCalc](https://chrome.google.com/webstore/detail/hfoojdaofolilkhakmhicmonbjmkpoai) v1.3: *Open a live calculator on the current page*
+ - [Power Thesaurus](https://chrome.google.com/webstore/detail/hhnjkanigjoiglnlopahbbjdbfhkndjk) v3.0.7: *View synonyms and antonyms by button in toolbar, right-click or by word selection on any page.*
+ - [Tab ReTitle](https://chrome.google.com/webstore/detail/hilgambgdpjgljhjdaccadahckpdiapo) v1.5.1: *Change tab titles easily!*
+ - [Time Stamper](https://chrome.google.com/webstore/detail/hipeknijlebohncdfhcldmmooapmmmfc) v0.1.2: *Quick and easy adding of a timestamp to an input field*
+ - [Canonical Viewer](https://chrome.google.com/webstore/detail/hjfdknmbgendighdfeibchcifjcaelmb) v0.1.1: *SEO tool to check canonical and alternate LINKs into a web page.*
+ - [IdFinder](https://chrome.google.com/webstore/detail/hjnnbkbfciocofgmbkmdgbldbkfabcdc) v1.8: *It's unique chrome extension that get all id in a webpage and show them in a popup*
+ - [Picture-in-Picture Extension (by Google)](https://chrome.google.com/webstore/detail/hkgfoiooedgoejojocmhlaklaeopbecg) v1.10: *Watch video using Picture-in-Picture*
+ - [Web Archives](https://chrome.google.com/webstore/detail/hkligngkgcpcolhcnkgccglchdafcnao) v2.0.1: *View archived and cached versions of web pages on 10+ search engines, such as the Wayback Machine, Archive.is and Google.*
+ - [DOM Monster](https://chrome.google.com/webstore/detail/hlimphkgopfdlelabkioalhfjfblnclk) v1.0: *DOM Monster is a bookmarklet that will analyze the DOM & other features of the page you're on, and give you its bill of health.*
+ - [VIEW LATER - save links in a stack](https://chrome.google.com/webstore/detail/hnolaplfoobcmgfmjphkmbjolinelpkb) v1.1.6: *This extension saves pages to view for later.*
+ - [WorkFlowy for Coders](https://chrome.google.com/webstore/detail/hogpngcijkfmbfijfkaapeejhijipddp) v1.3.0: *An extension for WorkFlowy to add markdown support and syntax highlighting in notes*
+ - [Open-as-Popup](https://chrome.google.com/webstore/detail/iabonpaolfcekbccbiginpdkhlcaeopd) v1.0: *Opens the current tab as a popup window.*
+ - [CoBeats Uploader](https://chrome.google.com/webstore/detail/ibhjeppbnamcjmncfcppmglippmpmngh) v1.0.5: *Save your web things, wherever you are. Bookmark pages, take screenshots, clip images and articles.*
+ - [Word Count Tool](https://chrome.google.com/webstore/detail/ibjgdahgcdkpdlbkadidojhfddflblcm) v2.3: *Word Count Tool counts the number of words and characters in the selected text*
+ - [Exact Time - Local & UTC](https://chrome.google.com/webstore/detail/iceehfhoipgiceeepgmecejmgcdckohb) v0.9: *Displays precise local and utc date and time*
+ - [PixelParallel by htmlBurger](https://chrome.google.com/webstore/detail/iffnoibnepbcloaaagchjonfplimpkob) v1.1.4: *PixelParallel by htmlBurger - Pixel perfect HTML vs Design tool for developers*
+ - [Batch Save Pocket](https://chrome.google.com/webstore/detail/ihhiomekhplpdojbcaniaglcfopckaef) v2.0: *Add multiple links to Pocket at once through the selected text or by pasting links into the extension.*
+ - [Listly - Web Scraper](https://chrome.google.com/webstore/detail/ihljmnfgkkmoikgkdkjejbkpdpbmcgeh) v0.0.14: *Web pages into Excel data in seconds.*
+ - [Auto Text Expander for Google Chrome™](https://chrome.google.com/webstore/detail/iibninhmiggehlcdolcilmhacighjamp) v1.9.5: *Create custom keyboard shortcuts to expand and replace text as you type!*
+ - [dataslayer](https://chrome.google.com/webstore/detail/ikbablmmjldhamhcldjjigniffkkjgpo) v1.3.0: *Debug and test tag management (Google Tag Manager, DTM, Tealium) and analytics implementations.*
+ - [GTM/GA Debug](https://chrome.google.com/webstore/detail/ilnpmccnfdjdjjikgkefkcegefikecdc) v0.3.0: *Google Tag Manager and Google Analytics Debugging Tool*
+ - [Imagus](https://chrome.google.com/webstore/detail/immpkjjlgappgfkkfieppnmlhakdmaab) v0.9.8.74: *Enlarge thumbnails, and show images/videos from links with a mouse hover.*
+ - [PPC NegativeKeywords](https://chrome.google.com/webstore/detail/ioacklpianhpecnbdbcacpenafeijjga) v2.3.3: *NegativeKeywords allows you to quickly and conveniently collect negative keywords in your AdWords, Analytics, Bing Ads accounts.*
+ - [Wakelet](https://chrome.google.com/webstore/detail/iomokcfebnfiflpgcpcijfkfmafgkjgh) v3.1.5: *Save, organize and share content from across the web!*
+ - [Convert To Popup](https://chrome.google.com/webstore/detail/ipbclffpmnocdigdcpmahfmdlibcggal) v1.6: *Converts the current tab or link to a popup window*
+ - [Porter for WorkFlowy](https://chrome.google.com/webstore/detail/jbcgipgkafpibecoejadaebkkbjnbcaj) v1.4.3: *Extends WorkFlowy. Export to Markdown and HTML, Theme, Count letters, and more useful features.*
+ - [Notyfy - Web Notifications in One Place](https://chrome.google.com/webstore/detail/jchnjaoenbpjjnfgnfhfljcdfhmpljic) v1.3.0: *Aggregates your notifications for Gmail, Facebook, Twitter, Reddit, and more in one place!*
+ - [Bookmarks Backuper](https://chrome.google.com/webstore/detail/jdcbhaadjnkcdklbjkmgbpjaoonekpjd) v0.2.0.6: *Never lose your Chrome bookmarks again!*
+ - [Pushy Clipboard](https://chrome.google.com/webstore/detail/jemdfhaheennfkehopbpkephjlednffd) v3.2.6: *Store and manage clipboard entries. Share with all your Android and Desktop devices.*
+ - [Extract People also search phrases in Google](https://chrome.google.com/webstore/detail/jepjhbfaflooeafdniebnnjfdpcdkejd) v1.2: *Shows and adds all phrases from "People also search for" to the textarea in top right corner - so you can simply harvest them all.*
+ - [Saved Search](https://chrome.google.com/webstore/detail/jflpdngeeiboimjmmcfbkkckcaimafbj) v1.0.2: *Save your google search keywords.*
+ - [Meta Debugger](https://chrome.google.com/webstore/detail/jfpdemgdamgplelnlmaecbonkfgfgomp) v0.7: *Debug the head section of any webpage in a comfortable way.*
+ - [Voblet](https://chrome.google.com/webstore/detail/jgnennkfpahpjpbmbbodaipgoilccmco) v0.1.1: *A quick way to save and send links*
+ - [Linkpack](https://chrome.google.com/webstore/detail/jgphmbdloidgdcjljgifdijpcdfjalno) v2.7: *Linkpack extension for Google Chrome*
+ - [HiddenTools for Google Chrome™](https://chrome.google.com/webstore/detail/jhcdplpmjpchlfjfihdpimbakifjnnda) v3.4: *The easiest way to access all the productivity settings and developer tools hidden in the Google Chrome™ browser.*
+ - [Designer Tools](https://chrome.google.com/webstore/detail/jiiidpmjdakhbgkbdchmhmnfbdebfnhp) v2.0.2.0: *Measure and align elements within Chrome*
+ - [Google Analytics Debugger](https://chrome.google.com/webstore/detail/jiokjpcfnipnicblkgdklknjjeohnfln) v2.1.6: *A browser extension for debugging Google Analytics tracking code*
+ - [SEO Shortcuts](https://chrome.google.com/webstore/detail/jkkkmikjgkdljhmpnjajedkngkgefejf) v1.3.0: *The command line interface for your browser. Gives easy access to web services, styling and script output in the browser.*
+ - [Regex Matcher](https://chrome.google.com/webstore/detail/jkokpkcggnifdedpaicbjcapmhiecjjk) v1.12: *Handy tool for creating and testing regular expressions (regex)*
+ - [DOMListener](https://chrome.google.com/webstore/detail/jlfdgnlpibogjanomigieemaembjeolj) v1.3.0: *Monitor, browse and filter all DOM changes with ease.*
+ - [Save to Facebook](https://chrome.google.com/webstore/detail/jmfikkaogpplgnfjmbjdpalkhclendgd) v2.3: *Save things you want to come back to later.*
+ - [Google Analytics Debugger](https://chrome.google.com/webstore/detail/jnkmfdileelhofjcijamephohjechhna) v2.8: *Prints useful information to the JavaScript console by enabling the debug version of the Google Analytics Javascript.*
+ - [Flava Clipper](https://chrome.google.com/webstore/detail/jnpejdnkidnilbdgonnnnpbahhhlkheo) v0.2.3: *A quick and easy way to capture web pages into your Flava timeline.*
+ - [Grid Ruler](https://chrome.google.com/webstore/detail/joadogiaiabhmggdifljlpkclnpfncmj) v0.2.1: *Create grids and measure their distance easily.*
+ - [Marker.io: Visual bug reporting for websites](https://chrome.google.com/webstore/detail/jofhoojcehdmaiibilpcoofpdbbddkkl) v6.0.3: *Report visual bugs directly into your favorite tools, without leaving your website or web app*
+ - [Grammarly for Chrome](https://chrome.google.com/webstore/detail/kbfnbcaeplbcioakkpcpgfkobkghlhen) v14.957.0: *Write your best with Grammarly for Chrome.*
+ - [Copy Link Address](https://chrome.google.com/webstore/detail/kdejdkdjdoabfihpcjmgjebcpfbhepmh) v0.5.5: *Copy link address without right-clicking. Just hover the link and hit Ctrl-C / Cmd-C!*
+ - [Tag Assistant (by Google)](https://chrome.google.com/webstore/detail/kejbdjndbnbjgmefkgdddjlbokphdefk) v20.65.0: *Tag Assistant helps to troubleshoot installation of various Google tags including Google Analytics, Google Tag Manager and more.*
+ - [Save to netroStation](https://chrome.google.com/webstore/detail/kjcnmkijfjhkeoekepoacemlkcmaeckn) v1.1: *Add currently opened website and import your bookmarks to your netroStation.*
+ - [Papercuts](https://chrome.google.com/webstore/detail/kjodbaafiacnpklaepiaplhbbiomipmc) v4.0.1: *Save all of your notes and memos in your browser. Easy to organize, copy, paste and sync between computers.*
+ - [Side-by-side view for Google Docs](https://chrome.google.com/webstore/detail/klojnkbccembmfbplidbaiblodibiccg) v0.1.4: *Bring a side-by-side view toggler to Google Docs.*
+ - [Genie History Search](https://chrome.google.com/webstore/detail/knbjijibldffhfbhcponbgmndceoopml) v0.4.2: *Always find the page you are looking for, like magic.*
+ - [Default NewTab](https://chrome.google.com/webstore/detail/knbkgiefaboodkminmjcdlflmmklgihf) v1.0.3: *Very simple newtab replacement with custom dials*
+ - [Notion Web Clipper](https://chrome.google.com/webstore/detail/knheggckgoiihginacbkhaalnibhilkk) v0.0.8: *Use our Web Clipper to save any website into Notion.*
+ - [PII Viewer for Google Analytics](https://chrome.google.com/webstore/detail/kocaompbindpaanpabjeeechkofidmbh) v0.0.14: *The simple and easy way to view personally identifiable information (PII) in Google Analytics.*
+ - [Clip To WorkFlowy GO](https://chrome.google.com/webstore/detail/laafdmchdjolfmndgfnpfclgebopnkko) v0.2.0.7: *Bookmark websites in WorkFlowy*
+ - [Raindrop.io](https://chrome.google.com/webstore/detail/ldgfbffkinooeloadekpmfoklnobpien) v6.0.619: *"Save Button" for Web*
+ - [Reading List](https://chrome.google.com/webstore/detail/lloccabjgblebdmncjndmiibianflabo) v2.4.4: *This extension saves a list of links to pages to read later.*
+ - [Tag Assistant for Conversions Beta](https://chrome.google.com/webstore/detail/llpfnmnallbompdmklfkcibfpcfpncdd) v19.191.3.55: *Tag Assistant for Conversions helps validate your website implementation used to measure conversions for Google Ads.*
+ - [Application Launcher for Drive (by Google)](https://chrome.google.com/webstore/detail/lmjegmlicamnimmfhcmpkclmigmmcbeh) v3.2: *Open Drive files directly from your browser in compatible applications installed on your computer.*
+ - [GTM dataLayer Sifter](https://chrome.google.com/webstore/detail/loaechmlaojdaklndmhapgkdnldjadbo) v0.3: *A plugin to find the dot notation from an event's element to another element on the page.*
+ - [Change Case](https://chrome.google.com/webstore/detail/lpakoahdokkkonadfppfgmednkknpgbm) v2.4.2: *Multiple methods to change text case.*
+ - [Google Keep Chrome Extension](https://chrome.google.com/webstore/detail/lpcaedmchfhocbbapmcbpinfpgnhiddi) v4.20162.540.1: *Save to Google Keep in a single click!*
+ - [WorkFlowy Plus](https://chrome.google.com/webstore/detail/mabckbaobddmnafhfkaciemiimfmifhh) v1.1.8: *Get most out of WorkFlowy*
+ - [Save to Google](https://chrome.google.com/webstore/detail/meoeeoaohbmgbocpdpnjklmfmjjagkkf) v2.2018.815.1329: *Saves a webpage to Google.*
+ - [History Search](https://chrome.google.com/webstore/detail/mgacnbmocekcfjbdfpdnbnjfhaomffhk) v1.5.35: *Keep track of your information online. Find any article, document or webpage you’ve been before, using keywords you remember on it*
+ - [Date Today for Google Chrome](https://chrome.google.com/webstore/detail/mhgknbehalhkedjgfhiaindklahhkccc) v1.3.5.0: *The best clock to see in one glance the current date and time. With an option to see the digital clock in the browser toolbar.*
+ - [Milanote Web Clipper](https://chrome.google.com/webstore/detail/mipimgcmndeggldjcbjfeogcpoafomhl) v1.1.9: *Start planning your next great piece of work by collecting inspiration from around the web.*
+ - [Text Tools](https://chrome.google.com/webstore/detail/mpcpnbklkemjinipimjcbgjijefholkd) v1.0.16: *Handy text tools a click away*
+ - [UET Tag Helper (by Bing Ads)](https://chrome.google.com/webstore/detail/naijndjklgmffmpembnkfbcjbognokbf) v0.4.6: *This extension helps to identify issues in Bing UET tags*
+ - [Notes for Google Drive](https://chrome.google.com/webstore/detail/ndidogegapfaolpcebadjknkdlladffa) v1.13: *Easily create notes from within Chrome that are automatically synced as Documents to your Google Drive account.*
+ - [Office](https://chrome.google.com/webstore/detail/ndjpnladcallmjemlbaebfadecfhkepb) v2.1.8: *View, edit, and create Office documents in your browser.*
+ - [Workspace Launcher](https://chrome.google.com/webstore/detail/nenchifcjkmfahicbjgpinmklenpfiih) v1.2: *Quickly Launch Custom Workspaces*
+ - [GQueues Chrome Extension](https://chrome.google.com/webstore/detail/nfaboplgcinooacenccbofkaadcfbkkb) v1.1.3: *Easily create tasks for GQueues - the leading Google-integrated task management system for people and teams.*
+ - [Broken Link Checker](https://chrome.google.com/webstore/detail/nibppfobembgfmejpjaaeocbogeonhch) v1.0.5: *The Easiest Way to find all broken links (404 errors) on the web page. Find more! Save more!*
+ - [Product Hunt Benchmark](https://chrome.google.com/webstore/detail/nikebmmhcdcbkgecdlbnplpoknfblhnn) v0.4.3: *Instant product recommendations based on Product Hunt sentiment analysis.*
+ - [Save for later](https://chrome.google.com/webstore/detail/nkphlkgkhmdaecflflapohlkkchmcacc) v1.0: *Save tabs in window to be used later*
+ - [Awesome Screenshot: Screen Video Recorder](https://chrome.google.com/webstore/detail/nlipoenfbbikpbjkfpfillcgkoblgpmj) v4.3.0: *Screen Capture full page screenshot. Screen recoder for screencast. Annotate and share to trello/slack etc.*
+ - [SANDOGTM](https://chrome.google.com/webstore/detail/obelldghljjjdgmbognpnnbfgofbnidg) v0.2.2: *Adjust GTM's styling and controls to make better use of shortcuts and screen space*
+ - [Vocab Note](https://chrome.google.com/webstore/detail/obnmagkhjbjbolndeminbibodlfjnabp) v1.2.1: *It's your customizable vocabulary notebook. You can create your own vocabulary list.*
+ - [Clipper](https://chrome.google.com/webstore/detail/offehabbjkpgdgkfgcmhabkepmoaednl) v1.3.4: *Easy copy & pase text clips between your devices, dedicated 'to email' button. Create custom text clips, email templates, etc.*
+ - [Read Later](https://chrome.google.com/webstore/detail/ofohpmdcbdgcchmhmmcfdmbegompidlm) v1.0.2: *Qucik and easy way to mark web pages for reading later*
+ - [Page Monitor](https://chrome.google.com/webstore/detail/ogeebjpdeabhncjpfhgdibjajcajepgg) v3.4.6: *Stays in the background and monitors web pages for changes.*
+ - [Check My Links](https://chrome.google.com/webstore/detail/ojkcdipcgfaekbeaelaapakgnjflfglf) v3.8.1: *Check My Links is a link checker that crawls through your webpage and looks for broken links.*
+ - [Google Cache Grabber](https://chrome.google.com/webstore/detail/oknphglakdbennjfggemcljcdbfefpnk) v1.0.0: *This will let you view the cached version of a webpage*
+ - [Link Checker](https://chrome.google.com/webstore/detail/olcpkmmoifipcklgnphbhdhbpfniijmb) v1.0.5: *This extension runs through links on the current pages and checks whether they work*
+ - [Recent Bookmarks](https://chrome.google.com/webstore/detail/olndffocioplakeilhkgenfgdincjlpn) v1.6.2: *A list of recent bookmarks in descending order, grouped by the day they were added.*
+ - [Screenshot & Screen Recorder w/ Webcam-Droplr](https://chrome.google.com/webstore/detail/oncaapliomaamlbopdmhmdompfemljhm) v3.7.16: *All-In-One Screenshot & Screen Recorder*
+ - [PPC Keyword Wrapper for Google & Bing Ads](https://chrome.google.com/webstore/detail/paaonoglkfolneaaopehamdadalgehbb) v1.3.1: *Quickly wrap keywords into Exact, Phrase and Broad-match-modified*
+ - [Visual Event](https://chrome.google.com/webstore/detail/pbmmieigblcbldgdokdjpioljjninaim) v2.1: *Know what event is bound on each dom element*
+ - [Short Gmail Labels](https://chrome.google.com/webstore/detail/pbnemfflkolkhamplnhoaljkogfhajaf) v1.0: *Shorten your Gmail labels so parent labels are not displayed.*
+ - [Tab Memory Saver](https://chrome.google.com/webstore/detail/pehgadfgejpbgkgkofomjkbgfbnhdfll) v3.219.456.2: *This extension saves you memory on underpowered machines. Automatically and fast.*
+ - [Visualping](https://chrome.google.com/webstore/detail/pemhgklkefakciniebenbfclihhmmfcd) v4.1.7: *Visualping Chrome Extension*
+ - [Duplicate Tab Shortcut Key](https://chrome.google.com/webstore/detail/pfippblampohahkkdoomekekmfbjkimg) v2.0: *Adds a shortcut key to allow duplicating a tab.*
+ - [Data Saver](https://chrome.google.com/webstore/detail/pfmgfdlgomnbgkofeojodiodmgpgmkac) v3.0.1: *Data Saver is now deprecated. Installing this update will automatically remove it from Chrome.*
+ - [Reading list](https://chrome.google.com/webstore/detail/pgkdcepboeicdjeklohlkhjnoaadbpbj) v2.2.2: *Save articles, videos, and other content for later use*
+ - [Keyword Planner by Clever Ads](https://chrome.google.com/webstore/detail/pgmedmephcflcpnaphncihbnggfjbknm) v1.0.0.2: *Generate and choose the perfect Google Ads keywords for your Google Ads campaigns with our keyword research tool.*
+ - [DOM HIGHLIGHTER](https://chrome.google.com/webstore/detail/pkljnnogdmlajgaoodihioopfdkpgjgg) v1.2
+ - [ClickUp: Tasks, Screenshots, Email, Time](https://chrome.google.com/webstore/detail/pliibjocnfmkagafnbkfcimonlnlpghj) v1.8.14: *ClickUp is a productivity platform that makes your personal and work lives more productive, saving you time. *
+ - [Search Later](https://chrome.google.com/webstore/detail/pmlokaikmdggccdncpbbfhnbdpblkoal) v1.1: *Save Keywords to search them later!*
+ - [WorkFlowy Clipper](https://chrome.google.com/webstore/detail/pmolhkonbppmihdpjmgclnclfppjndom) v1.0: *Quickly save a bookmark or jot down a quick note into a particular WorkFlowy list*
+ - [Diigo Web Collector - Capture and Annotate](https://chrome.google.com/webstore/detail/pnhplgjpclknigjpccbcnmicgcieojbh) v3.4.4: *Bookmark, Archive, Screenshot & Markup - All-In-One Web Collector, must-have research tool*
+ - [Data Layer Doctor](https://chrome.google.com/webstore/detail/pogogcdfpladllndlicdmedkapcekmjm) v0.5.0: *The data layer management tool.*
+
+**Apps:** 12
+ - [Slides](https://chrome.google.com/webstore/detail/aapocclcgogkmnckokdopfmhonfmgoek) v0.10: *Create and edit presentations *
+ - [Google Drive](https://chrome.google.com/webstore/detail/aghbiahbpaijignceidepookljebhfak) v2020.4.15.53663
+ - [Docs](https://chrome.google.com/webstore/detail/aohghmighlieiainnegkcijnfilokake) v0.10: *Create and edit documents *
+ - [Google Drive](https://chrome.google.com/webstore/detail/apdfllckaahabafndbhieahigkjlhalf) v14.1: *Google Drive: create, share and keep all your stuff in one place.*
+ - [YouTube](https://chrome.google.com/webstore/detail/blpcfgokakmgnkcojhhkbfbldkacnbeo) v4.2.8
+ - [Bullet](https://chrome.google.com/webstore/detail/dbakcpknfkbobkplhnmhofhghbbjnkmj) v2020.4.15.53663
+ - [Sheets](https://chrome.google.com/webstore/detail/felcaaldnbdncclmgdcncolpebgiejap) v1.2: *Create and edit spreadsheets*
+ - [Gmail](https://chrome.google.com/webstore/detail/pjkljhegncpnkpknbcohdijeoejaedia) v8.2: *Fast, searchable email with less spam.*
+ - [Obvibase: a truly simple database](https://chrome.google.com/webstore/detail/hoddinokjifhganfcgkjmkkngljebjdj) v0.0.0.12: *Obvibase makes creating an online database as easy and fast as creating a spreadsheet. Attach files from Google Drive.*
+ - [MeisterTask](https://chrome.google.com/webstore/detail/klffkpfdfjoefeolelhjkojljdoidoae) v1.0.0: *MeisterTask is the most intuitive project and task management tool on the web.*
+ - [WorkFlowy](https://chrome.google.com/webstore/detail/koegeopamaoljbmhnfjbclbocehhgmkm) v1.14: *WorkFlowy is a beautiful tool for lists and notes. It's simple enough for a shopping list, and powerful enough to run a company.*
+ - [Pocket](https://chrome.google.com/webstore/detail/mjcnijlhddpbdemagnpefmlkjdagkogk) v0.810: *Over 10 million people use Pocket to easily save articles, videos and more for later.*
+
+
+Exported with [Share Extensions for Google Chrome™](https://chrome.google.com/webstore/detail/chdafcbnfkfenoeejpaeenpdamhmalhe)
+Show your ❤ to developer. Make a [donation](http://bit.ly/2wIc8MX).
